@@ -65,10 +65,4 @@ Each links to a public **showcase** — full architecture & engineering write-up
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patoxzor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5eead4&hide=markdown" alt="Top languages" />
-</p>
-
 <p align="center"><i>Software Developer</i></p>
