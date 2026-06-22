@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carlos 👋</h1>
-<h3 align="center">Backend / Python Developer · Maceió, Brazil 🇧🇷 · Open to Remote 🌎</h3>
+<h3 align="center">Backend / Python Developer · Maceió, Brazil 🇧🇷</h3>
 
 <p align="center">
   <a href="https://patoxzor.github.io"><img src="https://img.shields.io/badge/Portfolio-patoxzor.github.io-5eead4?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" /></a>
@@ -16,7 +16,7 @@ production systems across **desktop, web and mobile** — REST APIs, automation,
 - 🔭 Focused on **backend & Python**, comfortable across **PHP/Laravel, Node.js and Flutter**
 - 🗄️ Work daily with **PostgreSQL, MySQL, SQL Server and SQLite**
 - ⚙️ Build my own **CI/CD pipelines** and **auto-update systems**
-- 🌐 Portuguese (native) · English (professional working) · US time-zone overlap
+- 🌐 Portuguese (native) · English (professional working)
 - 📫 Reach me at **calos.caf@gmail.com**
 
 ---
