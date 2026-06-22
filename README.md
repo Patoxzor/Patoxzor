@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carlos 👋</h1>
-<h3 align="center">Backend / Python Developer · Maceió, Brazil 🇧🇷</h3>
+<h3 align="center">Software Developer · Maceió, Brazil 🇧🇷</h3>
 
 <p align="center">
   <a href="https://patoxzor.github.io"><img src="https://img.shields.io/badge/Portfolio-patoxzor.github.io-5eead4?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" /></a>
