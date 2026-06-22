@@ -65,11 +65,4 @@ Each links to a public **showcase** — full architecture & engineering write-up
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Patoxzor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=5eead4&title_color=5eead4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patoxzor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5eead4" alt="Top languages" />
-</p>
-
-<p align="center"><i>Backend / Python Developer · available for remote roles worldwide.</i></p>
+<p align="center"><i>Software Developer</i></p>
